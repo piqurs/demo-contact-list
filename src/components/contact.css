@@ -1,0 +1,18 @@
+.contact {
+  border: 1px solid #eee;
+  padding: 10px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+}
+.contact-name {
+  margin: 0 0 10px 0;
+}
+.contact-email {
+  margin-bottom: 10px;
+}
+.button-group {
+  margin-top: 10px;
+}
+.remove-button {
+  margin-left: 10px;
+}
