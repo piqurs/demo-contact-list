@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:4444";
+const BASE_URL = " https://simple-contact-crud.herokuapp.com";
 
 export const getContacts = async () => {
   const response = await fetch(`${BASE_URL}/contacts`);
